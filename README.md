@@ -5,11 +5,9 @@
 
 Highly Trained Professional in Data Processing and Management on an extraordinary scale, handling Billions of Records.
 
-# Connect with me:
+# Connect with me: 
 
-<a href="https://www.linkedin.com/in/gdlopezcastillo" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-3b5998">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-3b5998)](https://www.linkedin.com/in/gdlopezcastillo)
 
 # I've solid experience on:
 
