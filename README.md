@@ -22,7 +22,7 @@ Highly Trained Professional in Data Processing and Management on an extraordinar
 • CodePipeline • CloudFormation • Terraform
 • System Manager • VPC | Cloud9 • Lake Formation
 
-𝗦𝗧𝗥𝗘𝗔𝗠𝗜𝗡𝗚 | 𝗕𝗔𝗧𝗖𝗛 <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/kafka.svg" width="35" height="35" alt="KAFKA"> <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/airflow.svg" width="35" height="35" alt="airflow"> ![apache_nifi_logo_icon_167863 (1)](https://user-images.githubusercontent.com/45697319/119990454-f5cbcc00-bf8d-11eb-9e82-71afe9c647b7.png)
+𝗦𝗧𝗥𝗘𝗔𝗠𝗜𝗡𝗚 | 𝗕𝗔𝗧𝗖𝗛 <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/kafka.svg" width="35" height="35" alt="KAFKA"> <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/airflow.svg" width="35" height="35" alt="airflow"> <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/nifi.svg" width="75" height="35" alt="nifi"> <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/streamsets.png" width="35" height="35" alt="streamsets">
 
 • Streamsets
 • Kafka
@@ -49,7 +49,7 @@ Highly Trained Professional in Data Processing and Management on an extraordinar
 • SAP Business Objects (BO)
 • SQL Server Reporting Services (SSRS)
 
-𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦 (𝗦𝗤𝗟 | 𝗡𝗼𝗦𝗤𝗟) ![snowflake-icon_22139](https://user-images.githubusercontent.com/45697319/119988928-3fb3b280-bf8c-11eb-96b0-8318b770555d.png) <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/dynamodb.svg" width="35" height="35" alt="dynamodb"> <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/database.svg" width="35" height="35" alt="database">
+𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘𝗦 (𝗦𝗤𝗟 | 𝗡𝗼𝗦𝗤𝗟) <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/snowflake.svg" width="35" height="35" alt="snowflake"> <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/dynamodb.svg" width="35" height="35" alt="dynamodb"> <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/database.svg" width="35" height="35" alt="database">
 
 • Microsoft SQL Server
 • Oracle
@@ -71,17 +71,3 @@ Highly Trained Professional in Data Processing and Management on an extraordinar
 • Python
 • PySpark
 • GIT
-
-<!--
-# Freelancing Services :
-* [![Fiverr Profile](https://img.shields.io/badge/Fiverr-Profile-green)](https://)
-
-
- # Contributions :  
-
-* [![Medium](https://img.shields.io/badge/Medium-Blog-black)](https://)
-* [![AWS-Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-orange)](https://)
-* [![Youtube-Talks](https://img.shields.io/badge/Youtube-Talks-red)](https://)
-
-# My favorite tools : 
--->
