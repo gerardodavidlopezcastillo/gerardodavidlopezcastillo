@@ -1,13 +1,15 @@
 <img align='right' src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/data_engineer.gif" width="230">
 
-# Hi , I'm Gerardo David López C. 👨‍💻
+# Hi , I'm Gerardo 👨‍💻
 ### DATA ENGINEER
 
 Highly Trained Professional in Data Processing and Management on an extraordinary scale, handling Billions of Records.
 
-# Connect with me: 
+# Connect with me:
 
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3b5998)](https://www.linkedin.com/in/gdlopezcastillo)
+<a href="https://www.linkedin.com/in/gdlopezcastillo" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-3b5998">
+</a>
 
 # I've solid experience on:
 
