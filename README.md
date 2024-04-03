@@ -1,7 +1,7 @@
 <img align='right' src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/data_engineer.gif" width="230">
 
 # Hi there 👋, I'm Gerardo! 👨‍💻🚀☕️ 
-### DATA ENGINEER
+### DATA ENGINEER | CLOUD ENGINEER | CLOUD ARCHITECT
 
 Highly Trained Professional in Data Processing and Management on an extraordinary scale, handling Billions of Records.
 
