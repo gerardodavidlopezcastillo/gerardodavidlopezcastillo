@@ -1,9 +1,9 @@
 <img align='right' src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/data_engineer.gif" width="230">
 
 # Hi there 👋, I'm Gerardo! 👨‍💻🚀☕️ 
-### SPECIALIST IN DATA ENRINEERING | CLOUD ENGINEERING | ARCHITECT IT
+### DATA ENRINEERING | CLOUD ENGINEERING | ARCHITECT IT | DEVOPS
 
-Highly Skilled Professional in Data Processing and Management | Cloud | Architecture on an extraordinary scale, handling large volumes of information. I have the ability to Manage Large-Scale Projects and Generate Solutions for complex problems in the Data Engineering | Cloud | Architecture Area.
+Highly Skilled Professional in Data Processing and Management | Cloud | Architecture | DevOps on an extraordinary scale, handling large volumes of information. I have the ability to Manage Large-Scale Projects and Generate Solutions for complex problems in the Data Engineering | Cloud | Architecture | DevOps Area.
 
 # Connect with me: 
 
