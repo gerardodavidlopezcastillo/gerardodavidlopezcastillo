@@ -7,7 +7,7 @@ Highly Skilled Professional in Data Processing and Management | Cloud | Architec
 
 # Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3b5998)](https://www.linkedin.com/in/gdlopezcastillo)
-[![Linktree](https://img.shields.io/badge/-Linktree-9cf)](https://linktr.ee/gdlopezcastillo)
+[![Linktree](https://img.shields.io/badge/-Linktree-34b384)](https://linktr.ee/gdlopezcastillo)
 
 # I've solid experience on:
 
