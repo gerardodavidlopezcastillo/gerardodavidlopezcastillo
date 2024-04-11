@@ -6,7 +6,6 @@
 Highly Skilled Professional in Data Processing and Management | Cloud | Architecture | DevOps on an extraordinary scale, handling large volumes of information. I have the ability to Manage Large-Scale Projects and Generate Solutions for complex problems in the Data Engineering | Cloud | Architecture Area.
 
 # Connect with me: 
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-3b5998)](https://www.linkedin.com/in/gdlopezcastillo)
 
 # I've solid experience on:
