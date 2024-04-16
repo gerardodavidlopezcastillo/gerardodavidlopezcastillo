@@ -1,11 +1,11 @@
 <img align='right' src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/data_engineer.gif" width="230">
 
 # Hi there 👋, I'm Gerardo! 👨‍💻🚀☕️ 
-### DATA ENRINEER | CLOUD ENGINEER | CLOUD ARCHITECT 
+### DATA ENRINEER 🗃️ | CLOUD ENGINEER ☁️ | CLOUD ARCHITECT 👷
 
 Highly Skilled Professional in Data Processing and Management | Cloud | Architecture | DevOps on an extraordinary scale, handling large volumes of information. I have the ability to Manage Large-Scale Projects and Generate Solutions for complex problems in the Data Engineering | Cloud | Architecture Area.
 
-# Connect with me: 
+# Connect with me: 🤳
 ### Perfil profesional:
 [![Linktree](https://img.shields.io/badge/-Linktree-34b384)](https://linktr.ee/gdlopezcastillo)
 
