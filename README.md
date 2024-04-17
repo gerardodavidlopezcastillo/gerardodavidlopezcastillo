@@ -13,6 +13,8 @@ Highly Skilled Professional in Data Processing and Management | Cloud | Architec
 
 𝗖𝗟𝗢𝗨𝗗 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/cloudwatch.svg" width="35" height="35" alt="cloudwatch"> <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/lambda.svg" width="35" height="35" alt="lambda"> <img src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/s3.svg" width="35" height="35" alt="s3">
 
+### AWS Or their counterparts Azure | GCP
+
 • DynamoDB • Redshift • Athena • Glue
 • Lamdba • StepFunctions • API Gateway
 • React Next • S3 • Airflow • ECS • ECR
