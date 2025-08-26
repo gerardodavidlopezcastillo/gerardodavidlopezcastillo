@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerardodavidlopezcastillo" alt="gerardodavidlopezcastillo" /> </p>
 <img align='right' src="https://github.com/gerardodavidlopezcastillo/gerardodavidlopezcastillo/raw/main/images/data_engineer.gif" width="230">
 
 # Hi there 👋, I'm Gerardo! 👨‍💻🚀☕️ 
